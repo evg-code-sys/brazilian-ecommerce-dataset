@@ -1,7 +1,7 @@
-# _brazilian-ecommerce-dataset_
-*Данный репозиторий хранит аналитические действия с датасетом "Brazilian E-Commerce Public Dataset by Olist"*
+# **brazilian-ecommerce-dataset**
+Данный репозиторий хранит аналитические действия с датасетом _"Brazilian E-Commerce Public Dataset by Olist"_
 
-# *Структура данных:*
-1. Olist_customers_dataset.csv --_customer_id_--> Olist_orders_dataset.csv;
-2. Olist_orders_dataset.csv <-_order_id_-> Olist_orders_dataset.csv <-_order_id_-> Olist_order_reviews_dataset.csv;
-3. Olist_order_items.csv --_product_id_-> Olist_products_dataset.csv.
+# **Структура данных:**
+1. Olist_customers_dataset.csv -- _"customer_id"_ --> Olist_orders_dataset.csv;
+2. Olist_orders_dataset.csv <-- _"order_id"_ --> Olist_orders_dataset.csv <-- _"order_id"_ --> Olist_order_reviews_dataset.csv;
+3. Olist_order_items.csv -- _ "product_id"_ -> Olist_products_dataset.csv.
