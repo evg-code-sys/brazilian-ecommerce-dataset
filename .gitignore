@@ -218,3 +218,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# DataBase
+*.db
+*-journal
+
+# .venv
+.brazil_database/
+
+# .vscode
+.vscode/
